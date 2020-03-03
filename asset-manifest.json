@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/deploy-test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/deploy-test/static/js/main.4de13567.chunk.js",
-    "main.js.map": "/deploy-test/static/js/main.4de13567.chunk.js.map",
+    "main.js": "/deploy-test/static/js/main.5a8f83b6.chunk.js",
+    "main.js.map": "/deploy-test/static/js/main.5a8f83b6.chunk.js.map",
     "runtime-main.js": "/deploy-test/static/js/runtime-main.9d267c26.js",
     "runtime-main.js.map": "/deploy-test/static/js/runtime-main.9d267c26.js.map",
     "static/js/2.e0e1c986.chunk.js": "/deploy-test/static/js/2.e0e1c986.chunk.js",
     "static/js/2.e0e1c986.chunk.js.map": "/deploy-test/static/js/2.e0e1c986.chunk.js.map",
     "index.html": "/deploy-test/index.html",
-    "precache-manifest.222ebc5a9354fd24ab49a99f0f4e9a65.js": "/deploy-test/precache-manifest.222ebc5a9354fd24ab49a99f0f4e9a65.js",
+    "precache-manifest.3825a78159f9a3feca446b97afcf747f.js": "/deploy-test/precache-manifest.3825a78159f9a3feca446b97afcf747f.js",
     "service-worker.js": "/deploy-test/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/deploy-test/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.e0e1c986.chunk.js.LICENSE.txt": "/deploy-test/static/js/2.e0e1c986.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9d267c26.js",
     "static/js/2.e0e1c986.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4de13567.chunk.js"
+    "static/js/main.5a8f83b6.chunk.js"
   ]
 }
